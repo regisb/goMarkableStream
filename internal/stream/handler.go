@@ -13,7 +13,7 @@ import (
 )
 
 const (
-	rate = 200
+	rate = 20
 )
 
 var rawFrameBuffer = sync.Pool{
